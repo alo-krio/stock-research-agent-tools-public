@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "exchange-calendars",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "4.13.3",
+    "mode": "offline"
+  },
+  {
+    "id": "pandas-market-calendars",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "5.6.1",
+    "mode": "offline"
+  },
+  {
+    "id": "financedatabase",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.5.2",
+    "mode": "offline"
+  },
+  {
+    "id": "alpaca-py",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.45.0",
+    "mode": "offline"
+  },
+  {
+    "id": "openbb",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "5.0.0",
+    "mode": "offline"
+  },
+  {
+    "id": "yfinance",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.8.0",
+    "mode": "live"
+  },
+  {
+    "id": "yahooquery",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.4.1",
+    "mode": "offline"
+  },
+  {
+    "id": "edgartools",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "6.4.0",
+    "mode": "live"
+  },
+  {
+    "id": "sec-edgar-downloader",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "5.1.0",
+    "mode": "offline"
+  },
+  {
+    "id": "fredapi",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.5.2",
+    "mode": "offline"
+  },
+  {
+    "id": "pandas-datareader",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.11.1",
+    "mode": "offline"
+  },
+  {
+    "id": "financetoolkit",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.3.5",
+    "mode": "offline"
+  },
+  {
+    "id": "pmxt",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.54.0",
+    "mode": "offline"
+  },
+  {
+    "id": "py-clob-client",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.34.6",
+    "mode": "offline"
+  },
+  {
+    "id": "trafilatura",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.4.0",
+    "mode": "offline"
+  },
+  {
+    "id": "duckdb",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.0.1",
+    "mode": "offline"
+  },
+  {
+    "id": "polars",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.2.0",
+    "mode": "offline"
+  },
+  {
+    "id": "pyarrow",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "26.0.1",
+    "mode": "offline"
+  },
+  {
+    "id": "pandera",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.36.0",
+    "mode": "offline"
+  },
+  {
+    "id": "arcticdb",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "7.0.0",
+    "mode": "offline"
+  },
+  {
+    "id": "ta-lib-python",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.8.3.post1",
+    "mode": "offline"
+  },
+  {
+    "id": "pandas-ta-classic",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.9.0",
+    "mode": "offline"
+  },
+  {
+    "id": "ta",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.11.0",
+    "mode": "offline"
+  },
+  {
+    "id": "stockstats",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.6.14",
+    "mode": "offline"
+  },
+  {
+    "id": "talipp",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.7.0",
+    "mode": "offline"
+  },
+  {
+    "id": "tsfresh",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.21.2",
+    "mode": "offline"
+  },
+  {
+    "id": "scikit-learn",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.9.1",
+    "mode": "offline"
+  },
+  {
+    "id": "lightgbm",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "4.7.0",
+    "mode": "offline"
+  },
+  {
+    "id": "optuna",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "4.9.0",
+    "mode": "offline"
+  },
+  {
+    "id": "statsmodels",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.15.0",
+    "mode": "offline"
+  },
+  {
+    "id": "arch",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "9.0.0",
+    "mode": "offline"
+  },
+  {
+    "id": "linearmodels",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "7.1",
+    "mode": "offline"
+  },
+  {
+    "id": "purged-cv",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.0.0",
+    "mode": "offline"
+  },
+  {
+    "id": "ml4t-diagnostic",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.2.1",
+    "mode": "offline"
+  },
+  {
+    "id": "ml4t-engineer",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.2.1",
+    "mode": "offline"
+  },
+  {
+    "id": "ml4t-backtest",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.2.0",
+    "mode": "offline"
+  },
+  {
+    "id": "polymarket-sdk",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.20.1",
+    "mode": "offline"
+  },
+  {
+    "id": "vectorbt",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.2.1",
+    "mode": "offline"
+  },
+  {
+    "id": "bt",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.4.1",
+    "mode": "offline"
+  },
+  {
+    "id": "backtesting-py",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.6.6",
+    "mode": "offline"
+  },
+  {
+    "id": "pybroker",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "2.0.3",
+    "mode": "offline"
+  },
+  {
+    "id": "ffn",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.4.1",
+    "mode": "offline"
+  },
+  {
+    "id": "nautilus-trader",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.231.0",
+    "mode": "offline"
+  },
+  {
+    "id": "zipline-reloaded",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "3.2.1",
+    "mode": "offline"
+  },
+  {
+    "id": "backtrader",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.9.78.123",
+    "mode": "offline"
+  },
+  {
+    "id": "lean-cli",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.0.234",
+    "mode": "offline"
+  },
+  {
+    "id": "alphalens-reloaded",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.5.1",
+    "mode": "offline"
+  },
+  {
+    "id": "empyrical-reloaded",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.7.3",
+    "mode": "offline"
+  },
+  {
+    "id": "pyfolio-reloaded",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.10.2",
+    "mode": "offline"
+  },
+  {
+    "id": "quantstats",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.0.86",
+    "mode": "offline"
+  },
+  {
+    "id": "skfolio",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.14.6",
+    "mode": "offline"
+  },
+  {
+    "id": "riskfolio-lib",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "7.4.1",
+    "mode": "offline"
+  },
+  {
+    "id": "pypfopt",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.6.0",
+    "mode": "offline"
+  },
+  {
+    "id": "cvxpy",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.9.3",
+    "mode": "offline"
+  },
+  {
+    "id": "cvxportfolio",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.5.1",
+    "mode": "offline"
+  },
+  {
+    "id": "quantlib",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.44",
+    "mode": "offline"
+  },
+  {
+    "id": "py-vollib",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.0.12",
+    "mode": "offline"
+  },
+  {
+    "id": "financepy",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "1.1.2",
+    "mode": "offline"
+  },
+  {
+    "id": "mplfinance",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.12.10b0",
+    "mode": "offline"
+  },
+  {
+    "id": "plotly",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "7.2.0",
+    "mode": "offline"
+  },
+  {
+    "id": "sec-edgar-api",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": null,
+    "mode": "live"
+  },
+  {
+    "id": "sec-fsds",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": null,
+    "mode": "live"
+  },
+  {
+    "id": "fja05680-sp500",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": null,
+    "mode": "live"
+  },
+  {
+    "id": "nasdaq-trader-symbols",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": null,
+    "mode": "live"
+  },
+  {
+    "id": "ken-french",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.11.1",
+    "mode": "live"
+  },
+  {
+    "id": "finra-short",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": null,
+    "mode": "live"
+  },
+  {
+    "id": "financebench",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": null,
+    "mode": "live"
+  },
+  {
+    "id": "osap",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.1.0",
+    "mode": "live"
+  },
+  {
+    "id": "qlib",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "0.9.7",
+    "mode": "offline"
+  },
+  {
+    "id": "finbert",
+    "date": "2026-11-25",
+    "suite": "smoke",
+    "outcome": "pass",
+    "version": "5.24.1",
+    "mode": "live"
+  },
+  {
+    "id": "firecrawl-alexandria",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "cached_pass"
+  },
+  {
+    "id": "perplexity-search",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "cached_pass"
+  },
+  {
+    "id": "sec-edgar-api",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "exchange-calendars",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alpaca-py",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "cached_pass"
+  },
+  {
+    "id": "duckdb",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "backtesting-py",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "bt",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alpaca-news",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "firecrawl-parse",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "firecrawl-scrape",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "perplexity-agent",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "docling",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "pdfplumber",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "trafilatura",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "arelle",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "edgartools",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "sec-fsds",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "needs_followup"
+  },
+  {
+    "id": "alpaca-assets",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "nasdaq-trader-symbols",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "openfigi",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "pandas-market-calendars",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "sp-us-method",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "alpaca-corporate-actions",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "openbb",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "yfinance",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "alfred",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "fred",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "ken-french",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "osap",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "tradevo-pit",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "pyarrow",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "pandera",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "ml4t-backtest",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "vectorbt",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alphalens-reloaded",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "empyrical-reloaded",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "ffn",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "quantstats",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "pypfopt",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "skfolio",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "ta-lib-python",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "scikit-learn",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "financebench",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "mplfinance",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alpaca-learn",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "ml4t",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "ml4t-workflow",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "quantconnect-research",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "lancedb",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "pymupdf",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "edgar-crawler",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "financetoolkit",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "sec-api-python",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "sec-financial-notes",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "needs_followup"
+  },
+  {
+    "id": "sec-13f-datasets",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "needs_followup"
+  },
+  {
+    "id": "sec-insider-datasets",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "needs_followup"
+  },
+  {
+    "id": "sec-edgar-downloader",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "financedatabase",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "sp-index-method",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "alpaca-js",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alpaca-stream",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "databento-python",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "defeatbeta-api",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "finnhub-python",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "massive-python",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "nasdaq-data-link",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "sharadar",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "stooq",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "needs_followup"
+  },
+  {
+    "id": "tiingo-python",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "yahooquery",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "bls-api",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "eia",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "finra-short",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "fredapi",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "global-factor",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "fed-treasury",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "norgate",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "dvc",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "feast",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "mlflow",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "polars",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "prefect",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "backtrader",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "nautilus-trader",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "pybroker",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "qstrader",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "lean",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "zipline-reloaded",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "pyfolio-reloaded",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "cvxportfolio",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "riskfolio-lib",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "pandas-ta-classic",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "stockstats",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alpaca-options",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "cboe-options",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "cboe-equities",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "cboe-vix",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "financepy",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "quantlib",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "sec-market-structure",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "needs_followup"
+  },
+  {
+    "id": "vollib",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "lightgbm",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "optuna",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "sktime",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "phoenix",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "langgraph",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "promptfoo",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "pydantic-ai",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alpaca-mcp",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "alpaca-paper",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "ib-async",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "alpaca-lean",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "lumibot",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "plotly",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "lightweight-charts",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "alpaca-skills",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "awesome-open-trading",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "awesome-quant",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "awesome-systematic-trading",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "quantecon",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "perplexity-mcp",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "ibis",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "abides",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "hftbacktest",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "hindsight",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "portfolioanalytics",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "tsfresh",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "lobster",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "live_pass"
+  },
+  {
+    "id": "optopsy",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "chronos",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "finrl",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "timesfm",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "kronos",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "qlib",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "rl-baselines",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "offline_pass"
+  },
+  {
+    "id": "financial-phrasebank",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "fingpt",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "fnspid",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "finbert",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "import_only"
+  },
+  {
+    "id": "ai-hedge-fund",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "finben-pixiu",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "finrobot",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "fintrade",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "needs_followup"
+  },
+  {
+    "id": "livetradebench",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "stockbench",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "tradingagents",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "kaggle-hull",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "kaggle-jane-street",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "numerai",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "optiver-vol",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "kaggle-optiver",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  },
+  {
+    "id": "worldquant-brain",
+    "date": "2026-11-24",
+    "suite": "resource-audit",
+    "outcome": "source_only"
+  }
+]

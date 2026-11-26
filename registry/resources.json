@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "exchange-calendars",
+    "name": "exchange_calendars",
+    "category": "Universe, identifiers and calendars",
+    "kind": "library",
+    "url": "https://github.com/gerrymanoim/exchange_calendars",
+    "use": "Generate exchange trading sessions and identify holidays and early closes."
+  },
+  {
+    "id": "pandas-market-calendars",
+    "name": "pandas_market_calendars",
+    "category": "Universe, identifiers and calendars",
+    "kind": "library",
+    "url": "https://github.com/rsheftel/pandas_market_calendars",
+    "use": "Generate exchange trading sessions and identify holidays and early closes."
+  },
+  {
+    "id": "fja05680-sp500",
+    "name": "Historical S&P 500 constituents (fja05680)",
+    "category": "Universe, identifiers and calendars",
+    "kind": "dataset",
+    "url": "https://github.com/fja05680/sp500",
+    "use": "Reconstruct historical index membership from dated constituent records."
+  },
+  {
+    "id": "index-constituents",
+    "name": "index-constituents (yfiua)",
+    "category": "Universe, identifiers and calendars",
+    "kind": "dataset",
+    "url": "https://github.com/yfiua/index-constituents",
+    "use": "Reconstruct historical index membership from dated constituent records."
+  },
+  {
+    "id": "financedatabase",
+    "name": "FinanceDatabase",
+    "category": "Universe, identifiers and calendars",
+    "kind": "dataset",
+    "url": "https://github.com/JerBouma/FinanceDatabase",
+    "use": "Resolve security identifiers, exchange listings or universe metadata."
+  },
+  {
+    "id": "openfigi",
+    "name": "OpenFIGI API",
+    "category": "Universe, identifiers and calendars",
+    "kind": "service",
+    "url": "https://www.openfigi.com/api",
+    "use": "Resolve security identifiers, exchange listings or universe metadata."
+  },
+  {
+    "id": "nasdaq-trader-symbols",
+    "name": "Nasdaq Trader symbol directory",
+    "category": "Universe, identifiers and calendars",
+    "kind": "service",
+    "url": "https://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs",
+    "use": "Resolve security identifiers, exchange listings or universe metadata."
+  },
+  {
+    "id": "norgate",
+    "name": "Norgate Data (survivorship-free US)",
+    "category": "Universe, identifiers and calendars",
+    "kind": "service",
+    "url": "https://norgatedata.com/data-content-tables.php",
+    "use": "Look up historical market prices and check the available universe and adjustments."
+  },
+  {
+    "id": "alpaca-py",
+    "name": "alpaca-py (market data + paper)",
+    "category": "Prices and market data",
+    "kind": "sdk",
+    "url": "https://github.com/alpacahq/alpaca-py",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "openbb",
+    "name": "OpenBB Platform / ODP",
+    "category": "Prices and market data",
+    "kind": "platform",
+    "url": "https://github.com/openbq-org/OpenBB",
+    "use": "Look up historical market prices and check the available universe and adjustments."
+  },
+  {
+    "id": "yfinance",
+    "name": "yfinance",
+    "category": "Prices and market data",
+    "kind": "library",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "yahooquery",
+    "name": "yahooquery",
+    "category": "Prices and market data",
+    "kind": "library",
+    "url": "https://github.com/dpguthrie/yahooquery",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "massive-python",
+    "name": "Massive (ex-Polygon) Python client",
+    "category": "Prices and market data",
+    "kind": "sdk",
+    "url": "https://github.com/massive-com/client-python",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "databento-python",
+    "name": "Databento Python",
+    "category": "Prices and market data",
+    "kind": "sdk",
+    "url": "https://github.com/databento/databento-python",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "tiingo-python",
+    "name": "tiingo-python",
+    "category": "Prices and market data",
+    "kind": "sdk",
+    "url": "https://github.com/hydrosquall/tiingo-python",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "finnhub-python",
+    "name": "finnhub-python",
+    "category": "Prices and market data",
+    "kind": "sdk",
+    "url": "https://github.com/Finnhub-Stock-API/finnhub-python",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "alpha-vantage",
+    "name": "alpha_vantage (Python)",
+    "category": "Prices and market data",
+    "kind": "sdk",
+    "url": "https://github.com/RomelTorres/alpha_vantage",
+    "use": "Look up historical market prices and check the available universe and adjustments."
+  },
+  {
+    "id": "twelvedata-python",
+    "name": "twelvedata-python",
+    "category": "Prices and market data",
+    "kind": "sdk",
+    "url": "https://github.com/twelvedata/twelvedata-python",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "pandas-datareader",
+    "name": "pandas-datareader",
+    "category": "Prices and market data",
+    "kind": "library",
+    "url": "https://github.com/pydata/pandas-datareader",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "defeatbeta-api",
+    "name": "defeatbeta-api",
+    "category": "Prices and market data",
+    "kind": "library",
+    "url": "https://github.com/defeat-beta/defeatbeta-api",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "stooq",
+    "name": "Stooq bulk EOD",
+    "category": "Prices and market data",
+    "kind": "service",
+    "url": "https://stooq.com/db/h/",
+    "use": "Look up historical market prices and check the available universe and adjustments."
+  },
+  {
+    "id": "tvscreener",
+    "name": "tvscreener",
+    "category": "Prices and market data",
+    "kind": "library",
+    "url": "https://github.com/deepentropy/tvscreener",
+    "use": "Filter stocks using screener fields and inspect the matching listings."
+  },
+  {
+    "id": "tradingview-screener",
+    "name": "TradingView-Screener",
+    "category": "Prices and market data",
+    "kind": "library",
+    "url": "https://github.com/shner-elmo/TradingView-Screener",
+    "use": "Filter stocks using screener fields and inspect the matching listings."
+  },
+  {
+    "id": "finvizfinance",
+    "name": "finvizfinance",
+    "category": "Prices and market data",
+    "kind": "library",
+    "url": "https://github.com/lit26/finvizfinance",
+    "use": "Filter stocks using screener fields and inspect the matching listings."
+  },
+  {
+    "id": "edgartools",
+    "name": "EdgarTools",
+    "category": "Fundamentals and SEC filings",
+    "kind": "library",
+    "url": "https://github.com/dgunning/edgartools",
+    "use": "Retrieve filings or parse reported facts and sections."
+  },
+  {
+    "id": "sec-edgar-api",
+    "name": "SEC EDGAR APIs (submissions, companyfacts, frames)",
+    "category": "Fundamentals and SEC filings",
+    "kind": "service",
+    "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+    "use": "Retrieve filings or parse reported facts and sections."
+  },
+  {
+    "id": "sec-edgar-downloader",
+    "name": "sec-edgar-downloader",
+    "category": "Fundamentals and SEC filings",
+    "kind": "library",
+    "url": "https://github.com/jadchaar/sec-edgar-downloader",
+    "use": "Retrieve filings or parse reported facts and sections."
+  },
+  {
+    "id": "edgar-crawler",
+    "name": "edgar-crawler",
+    "category": "Fundamentals and SEC filings",
+    "kind": "library",
+    "url": "https://github.com/lefterisloukas/edgar-crawler",
+    "use": "Retrieve filings or parse reported facts and sections."
+  },
+  {
+    "id": "sec-parser",
+    "name": "sec-parser",
+    "category": "Fundamentals and SEC filings",
+    "kind": "library",
+    "url": "https://github.com/alphanome-ai/sec-parser",
+    "use": "Retrieve filings or parse reported facts and sections."
+  },
+  {
+    "id": "arelle",
+    "name": "Arelle XBRL",
+    "category": "Fundamentals and SEC filings",
+    "kind": "library",
+    "url": "https://github.com/Arelle/Arelle",
+    "use": "Retrieve filings or parse reported facts and sections."
+  },
+  {
+    "id": "financetoolkit",
+    "name": "FinanceToolkit",
+    "category": "Fundamentals and SEC filings",
+    "kind": "library",
+    "url": "https://github.com/JerBouma/FinanceToolkit",
+    "use": "Research accounting statements and compare financial ratios."
+  },
+  {
+    "id": "simfin",
+    "name": "simfin",
+    "category": "Fundamentals and SEC filings",
+    "kind": "sdk",
+    "url": "https://github.com/SimFin/simfin",
+    "use": "Research accounting statements and compare financial ratios."
+  },
+  {
+    "id": "sec-api-python",
+    "name": "sec-api-python",
+    "category": "Fundamentals and SEC filings",
+    "kind": "sdk",
+    "url": "https://github.com/SEC-API-io/sec-api-python",
+    "use": "Retrieve filings or parse reported facts and sections."
+  },
+  {
+    "id": "sec-fsds",
+    "name": "SEC Financial Statement Data Sets",
+    "category": "Fundamentals and SEC filings",
+    "kind": "dataset",
+    "url": "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+    "use": "Research accounting statements and compare financial ratios."
+  },
+  {
+    "id": "tradevo-pit",
+    "name": "Tradevo point-in-time fundamentals sample",
+    "category": "Fundamentals and SEC filings",
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/Tradevodata/point-in-time-us-equity-fundamentals-sample",
+    "use": "Study historical fundamentals with publication timing."
+  },
+  {
+    "id": "sp500-earnings-transcripts",
+    "name": "S&P 500 earnings call transcripts",
+    "category": "Fundamentals and SEC filings",
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/kurry/sp500_earnings_transcripts",
+    "use": "Research earnings-call language, filing text or annotated financial documents."
+  },
+  {
+    "id": "edgar-corpus",
+    "name": "EDGAR-CORPUS",
+    "category": "Fundamentals and SEC filings",
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/eloukas/edgar-corpus",
+    "use": "Research earnings-call language, filing text or annotated financial documents."
+  },
+  {
+    "id": "sec-13f-filings",
+    "name": "sec-13f-filings",
+    "category": "Ownership, insiders and short interest",
+    "kind": "app",
+    "url": "https://github.com/toddwschneider/sec-13f-filings",
+    "use": "Investigate institutional holdings from 13F disclosures."
+  },
+  {
+    "id": "market-trackers",
+    "name": "LuxAlgo market-trackers (congress, insider, 13F)",
+    "category": "Ownership, insiders and short interest",
+    "kind": "pipeline",
+    "url": "https://github.com/LuxAlgo/market-trackers",
+    "use": "Explore disclosed transactions or holdings and their reporting lags."
+  },
+  {
+    "id": "equibles",
+    "name": "Equibles financial MCP",
+    "category": "Ownership, insiders and short interest",
+    "kind": "mcp",
+    "url": "https://github.com/daniel3303/Equibles",
+    "use": "Explore disclosed transactions or holdings and their reporting lags."
+  },
+  {
+    "id": "finra-short",
+    "name": "FINRA short interest & Reg SHO daily",
+    "category": "Ownership, insiders and short interest",
+    "kind": "service",
+    "url": "https://www.finra.org/finra-data/browse-catalog/equity-short-interest",
+    "use": "Inspect reported short-interest observations and publication dates."
+  },
+  {
+    "id": "sec-insider-datasets",
+    "name": "SEC insider transactions data sets (Form 3/4/5)",
+    "category": "Ownership, insiders and short interest",
+    "kind": "dataset",
+    "url": "https://www.sec.gov/data-research/sec-markets-data/insider-transactions-data-sets",
+    "use": "Explore disclosed transactions or holdings and their reporting lags."
+  },
+  {
+    "id": "sec-13f-datasets",
+    "name": "SEC Form 13F data sets",
+    "category": "Ownership, insiders and short interest",
+    "kind": "dataset",
+    "url": "https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets",
+    "use": "Investigate institutional holdings from 13F disclosures."
+  },
+  {
+    "id": "finbert",
+    "name": "FinBERT (ProsusAI)",
+    "category": "News, text and sentiment",
+    "kind": "model",
+    "url": "https://huggingface.co/ProsusAI/finbert",
+    "use": "Classify financial language or compare domain-specific text representations."
+  },
+  {
+    "id": "finbert-tone",
+    "name": "FinBERT-tone",
+    "category": "News, text and sentiment",
+    "kind": "model",
+    "url": "https://huggingface.co/yiyanghkust/finbert-tone",
+    "use": "Classify financial language or compare domain-specific text representations."
+  },
+  {
+    "id": "distilroberta-fin-news",
+    "name": "DistilRoBERTa financial news sentiment",
+    "category": "News, text and sentiment",
+    "kind": "model",
+    "url": "https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
+    "use": "Classify financial language or compare domain-specific text representations."
+  },
+  {
+    "id": "finance-embeddings",
+    "name": "finance-embeddings-investopedia",
+    "category": "News, text and sentiment",
+    "kind": "model",
+    "url": "https://huggingface.co/FinLang/finance-embeddings-investopedia",
+    "use": "Classify financial language or compare domain-specific text representations."
+  },
+  {
+    "id": "fingpt",
+    "name": "FinGPT",
+    "category": "News, text and sentiment",
+    "kind": "framework",
+    "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+    "use": "Experiment with financial language models and reasoning tasks."
+  },
+  {
+    "id": "fin-r1",
+    "name": "Fin-R1",
+    "category": "News, text and sentiment",
+    "kind": "model",
+    "url": "https://huggingface.co/SUFE-AIFLM-Lab/Fin-R1",
+    "use": "Experiment with financial language models and reasoning tasks."
+  },
+  {
+    "id": "fnspid",
+    "name": "FNSPID financial news + price dataset",
+    "category": "News, text and sentiment",
+    "kind": "dataset",
+    "url": "https://github.com/Zdong104/FNSPID_Financial_News_Dataset",
+    "use": "Research sentiment labels, news events and their association with market data."
+  },
+  {
+    "id": "financial-phrasebank",
+    "name": "Financial PhraseBank",
+    "category": "News, text and sentiment",
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/takala/financial_phrasebank",
+    "use": "Research sentiment labels, news events and their association with market data."
+  },
+  {
+    "id": "twitter-fin-sentiment",
+    "name": "Twitter financial news sentiment",
+    "category": "News, text and sentiment",
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment",
+    "use": "Research sentiment labels, news events and their association with market data."
+  },
+  {
+    "id": "gdelt-doc-api",
+    "name": "gdelt-doc-api",
+    "category": "News, text and sentiment",
+    "kind": "library",
+    "url": "https://github.com/alex9smith/gdelt-doc-api",
+    "use": "Research sentiment labels, news events and their association with market data."
+  },
+  {
+    "id": "trafilatura",
+    "name": "trafilatura",
+    "category": "News, text and sentiment",
+    "kind": "library",
+    "url": "https://github.com/adbar/trafilatura",
+    "use": "Extract readable text or structured content from source documents."
+  },
+  {
+    "id": "docling",
+    "name": "Docling",
+    "category": "News, text and sentiment",
+    "kind": "library",
+    "url": "https://github.com/docling-project/docling",
+    "use": "Extract readable text or structured content from source documents."
+  },
+  {
+    "id": "supply-chain-shock-map",
+    "name": "supply-chain-shock-map",
+    "category": "News, text and sentiment",
+    "kind": "app",
+    "url": "https://github.com/zandy700/supply-chain-shock-map",
+    "use": "Explore links between companies when an event affects a supplier or customer."
+  },
+  {
+    "id": "fredapi",
+    "name": "fredapi (FRED + ALFRED vintages)",
+    "category": "Macro and factor data",
+    "kind": "library",
+    "url": "https://github.com/mortada/fredapi",
+    "use": "Access macroeconomic series and compare observation dates with release dates."
+  },
+  {
+    "id": "ken-french",
+    "name": "Kenneth French Data Library",
+    "category": "Macro and factor data",
+    "kind": "dataset",
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html",
+    "use": "Build factor benchmarks or study replicated asset-pricing signals."
+  },
+  {
+    "id": "osap",
+    "name": "Open Source Asset Pricing",
+    "category": "Macro and factor data",
+    "kind": "dataset",
+    "url": "https://github.com/OpenSourceAP/CrossSection",
+    "use": "Build factor benchmarks or study replicated asset-pricing signals."
+  },
+  {
+    "id": "global-factor-data",
+    "name": "JKP Global Factor Data",
+    "category": "Macro and factor data",
+    "kind": "dataset",
+    "url": "https://jkpfactors.com/",
+    "use": "Build factor benchmarks or study replicated asset-pricing signals."
+  },
+  {
+    "id": "aqr-data",
+    "name": "AQR data sets",
+    "category": "Macro and factor data",
+    "kind": "dataset",
+    "url": "https://www.aqr.com/Insights/Datasets",
+    "use": "Build factor benchmarks or study replicated asset-pricing signals."
+  },
+  {
+    "id": "famafrench-py",
+    "name": "famafrench (replicate FF from CRSP/Compustat)",
+    "category": "Macro and factor data",
+    "kind": "library",
+    "url": "https://github.com/christianjauregui/famafrench",
+    "use": "Build factor benchmarks or study replicated asset-pricing signals."
+  },
+  {
+    "id": "pmxt",
+    "name": "pmxt unified prediction-market API",
+    "category": "Prediction markets",
+    "kind": "library",
+    "url": "https://github.com/pmxt-dev/pmxt",
+    "use": "Inspect prediction-market data, market definitions and pricing."
+  },
+  {
+    "id": "py-clob-client",
+    "name": "Polymarket py-clob-client (archived)",
+    "category": "Prediction markets",
+    "kind": "sdk",
+    "url": "https://github.com/Polymarket/py-clob-client",
+    "use": "Inspect prediction-market data, market definitions and pricing."
+  },
+  {
+    "id": "polymarket-sdk",
+    "name": "Polymarket unified Python SDK",
+    "category": "Prediction markets",
+    "kind": "sdk",
+    "url": "https://github.com/Polymarket/py-sdk",
+    "use": "Inspect prediction-market data, market definitions and pricing."
+  },
+  {
+    "id": "polymarket-agents",
+    "name": "Polymarket/agents",
+    "category": "Prediction markets",
+    "kind": "framework",
+    "url": "https://github.com/Polymarket/agents",
+    "use": "Study an agent integration for prediction-market research."
+  },
+  {
+    "id": "prediction-market-analysis",
+    "name": "prediction-market-analysis",
+    "category": "Prediction markets",
+    "kind": "dataset",
+    "url": "https://github.com/Jon-Becker/prediction-market-analysis",
+    "use": "Inspect prediction-market data, market definitions and pricing."
+  },
+  {
+    "id": "kalshi-api",
+    "name": "Kalshi API",
+    "category": "Prediction markets",
+    "kind": "service",
+    "url": "https://docs.kalshi.com/",
+    "use": "Inspect prediction-market data, market definitions and pricing."
+  },
+  {
+    "id": "duckdb",
+    "name": "DuckDB",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "library",
+    "url": "https://github.com/duckdb/duckdb",
+    "use": "Query tabular time series and join market observations."
+  },
+  {
+    "id": "polars",
+    "name": "Polars",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "library",
+    "url": "https://github.com/pola-rs/polars",
+    "use": "Query tabular time series and join market observations."
+  },
+  {
+    "id": "pyarrow",
+    "name": "Apache Arrow / Parquet",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "library",
+    "url": "https://github.com/apache/arrow",
+    "use": "Store and exchange columnar or versioned research data."
+  },
+  {
+    "id": "arcticdb",
+    "name": "ArcticDB",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "library",
+    "url": "https://github.com/man-group/ArcticDB",
+    "use": "Store and exchange columnar or versioned research data."
+  },
+  {
+    "id": "pandera",
+    "name": "Pandera",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "library",
+    "url": "https://github.com/unionai-oss/pandera",
+    "use": "Validate data schemas and detect malformed input."
+  },
+  {
+    "id": "ml4t-data",
+    "name": "ML4T Data",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "library",
+    "url": "https://github.com/ml4t/data",
+    "use": "Build reproducible research datasets and track changes."
+  },
+  {
+    "id": "questdb",
+    "name": "QuestDB",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "database",
+    "url": "https://github.com/questdb/questdb",
+    "use": "Query tabular time series and join market observations."
+  },
+  {
+    "id": "mlflow",
+    "name": "MLflow",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "platform",
+    "url": "https://github.com/mlflow/mlflow",
+    "use": "Record experiment parameters and compare runs."
+  },
+  {
+    "id": "dvc",
+    "name": "DVC",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "tool",
+    "url": "https://github.com/treeverse/dvc",
+    "use": "Build reproducible research datasets and track changes."
+  },
+  {
+    "id": "ta-lib-python",
+    "name": "TA-Lib (Python)",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/TA-Lib/ta-lib-python",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "pandas-ta-classic",
+    "name": "pandas-ta-classic",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/xgboosted/pandas-ta-classic",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "ta",
+    "name": "ta (bukosabino)",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/bukosabino/ta",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "stockstats",
+    "name": "stockstats",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/jealous/stockstats",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "talipp",
+    "name": "talipp (incremental)",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/nardew/talipp",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "ml4t-engineer",
+    "name": "ML4T Engineer (labels, leakage-safe datasets)",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/ml4t/engineer",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "tsfresh",
+    "name": "tsfresh",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/blue-yonder/tsfresh",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "unusual-volume",
+    "name": "UnusualVolumeDetector",
+    "category": "Features and indicators",
+    "kind": "app",
+    "url": "https://github.com/SamPom100/UnusualVolumeDetector",
+    "use": "Identify abnormal trading volume against a trailing baseline."
+  },
+  {
+    "id": "smart-money-concepts",
+    "name": "smart-money-concepts",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/joshyattridge/smart-money-concepts",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "stock-pattern",
+    "name": "stock-pattern",
+    "category": "Features and indicators",
+    "kind": "library",
+    "url": "https://github.com/BennyThadikaran/stock-pattern",
+    "use": "Compute and compare technical indicators or derived time-series features."
+  },
+  {
+    "id": "qlib",
+    "name": "Microsoft Qlib",
+    "category": "ML, forecasting and research automation",
+    "kind": "platform",
+    "url": "https://github.com/microsoft/qlib",
+    "use": "Implement reproducible learning pipelines for quantitative research."
+  },
+  {
+    "id": "lightgbm",
+    "name": "LightGBM",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/lightgbm-org/LightGBM",
+    "use": "Fit supervised baselines and test dated validation splits."
+  },
+  {
+    "id": "scikit-learn",
+    "name": "scikit-learn",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "use": "Fit supervised baselines and test dated validation splits."
+  },
+  {
+    "id": "optuna",
+    "name": "Optuna",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/optuna/optuna",
+    "use": "Search model parameters inside a training period."
+  },
+  {
+    "id": "kronos",
+    "name": "Kronos",
+    "category": "ML, forecasting and research automation",
+    "kind": "model",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "timesfm",
+    "name": "TimesFM",
+    "category": "ML, forecasting and research automation",
+    "kind": "model",
+    "url": "https://github.com/google-research/timesfm",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "chronos",
+    "name": "Chronos / Chronos-Bolt",
+    "category": "ML, forecasting and research automation",
+    "kind": "model",
+    "url": "https://github.com/amazon-science/chronos-forecasting",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "moirai",
+    "name": "Moirai (uni2ts)",
+    "category": "ML, forecasting and research automation",
+    "kind": "model",
+    "url": "https://github.com/SalesforceAIResearch/uni2ts",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "statsforecast",
+    "name": "StatsForecast",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/Nixtla/statsforecast",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "neuralforecast",
+    "name": "NeuralForecast",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/Nixtla/neuralforecast",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "darts",
+    "name": "Darts",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/unit8co/darts",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "time-series-library",
+    "name": "Time-Series-Library (TSLib)",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/thuml/Time-Series-Library",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "arch",
+    "name": "arch (GARCH, bootstrap)",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/bashtage/arch",
+    "use": "Estimate volatility or statistical time-series models."
+  },
+  {
+    "id": "statsmodels",
+    "name": "statsmodels",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/statsmodels/statsmodels",
+    "use": "Estimate volatility or statistical time-series models."
+  },
+  {
+    "id": "rd-agent",
+    "name": "RD-Agent (factor/model R&D loop)",
+    "category": "ML, forecasting and research automation",
+    "kind": "agent",
+    "url": "https://github.com/microsoft/RD-Agent",
+    "use": "Explore automated research or candidate factor generation."
+  },
+  {
+    "id": "alphagen",
+    "name": "alphagen",
+    "category": "ML, forecasting and research automation",
+    "kind": "research",
+    "url": "https://github.com/ICT-FinD-Lab/alphagen",
+    "use": "Explore automated research or candidate factor generation."
+  },
+  {
+    "id": "quantaalpha",
+    "name": "QuantaAlpha",
+    "category": "ML, forecasting and research automation",
+    "kind": "research",
+    "url": "https://github.com/QuantaAlpha/QuantaAlpha",
+    "use": "Explore automated research or candidate factor generation."
+  },
+  {
+    "id": "momentum-transformer",
+    "name": "trading-momentum-transformer",
+    "category": "ML, forecasting and research automation",
+    "kind": "research",
+    "url": "https://github.com/kieranjwood/trading-momentum-transformer",
+    "use": "Research learned momentum signals."
+  },
+  {
+    "id": "finrl",
+    "name": "FinRL",
+    "category": "ML, forecasting and research automation",
+    "kind": "framework",
+    "url": "https://github.com/AI4Finance-Foundation/FinRL",
+    "use": "Study reinforcement learning in simulated market environments."
+  },
+  {
+    "id": "trademaster",
+    "name": "TradeMaster",
+    "category": "ML, forecasting and research automation",
+    "kind": "framework",
+    "url": "https://github.com/TradeMaster-NTU/TradeMaster",
+    "use": "Study reinforcement learning in simulated market environments."
+  },
+  {
+    "id": "gym-trading-env",
+    "name": "Gym-Trading-Env",
+    "category": "ML, forecasting and research automation",
+    "kind": "library",
+    "url": "https://github.com/ClementPerroud/Gym-Trading-Env",
+    "use": "Study reinforcement learning in simulated market environments."
+  },
+  {
+    "id": "stockpredictionai",
+    "name": "stockpredictionai (LSTM/GAN notebook)",
+    "category": "ML, forecasting and research automation",
+    "kind": "notebook",
+    "url": "https://github.com/borisbanushev/stockpredictionai",
+    "use": "Inspect an example stock forecasting implementation."
+  },
+  {
+    "id": "vectorbt",
+    "name": "vectorbt (open source)",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/polakowo/vectorbt",
+    "use": "Simulate strategy rules and evaluate their portfolio returns."
+  },
+  {
+    "id": "bt",
+    "name": "bt",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/pmorissette/bt",
+    "use": "Simulate strategy rules and evaluate their portfolio returns."
+  },
+  {
+    "id": "backtesting-py",
+    "name": "backtesting.py",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/kernc/backtesting.py",
+    "use": "Simulate strategy rules and evaluate their portfolio returns."
+  },
+  {
+    "id": "pybroker",
+    "name": "PyBroker",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/edtechre/pybroker",
+    "use": "Simulate strategy rules and evaluate their portfolio returns."
+  },
+  {
+    "id": "ffn",
+    "name": "ffn",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/pmorissette/ffn",
+    "use": "Compute performance statistics from a historical price series."
+  },
+  {
+    "id": "spectre",
+    "name": "spectre (GPU factor engine)",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/Heerozh/spectre",
+    "use": "Simulate strategy rules and evaluate their portfolio returns."
+  },
+  {
+    "id": "fast-trade",
+    "name": "fast-trade",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/jrmeier/fast-trade",
+    "use": "Simulate strategy rules and evaluate their portfolio returns."
+  },
+  {
+    "id": "eigenledger",
+    "name": "EigenLedger",
+    "category": "Vectorized and portfolio backtesting",
+    "kind": "library",
+    "url": "https://github.com/santoshlite/EigenLedger",
+    "use": "Simulate strategy rules and evaluate their portfolio returns."
+  },
+  {
+    "id": "nautilus-trader",
+    "name": "NautilusTrader",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "lean",
+    "name": "QuantConnect LEAN",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/QuantConnect/Lean",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "lean-cli",
+    "name": "LEAN CLI",
+    "category": "Event-driven backtesting engines",
+    "kind": "tool",
+    "url": "https://github.com/QuantConnect/lean-cli",
+    "use": "Manage local LEAN research and simulation workflows."
+  },
+  {
+    "id": "zipline-reloaded",
+    "name": "zipline-reloaded",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/stefan-jansen/zipline-reloaded",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "backtrader",
+    "name": "backtrader",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/mementum/backtrader",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "lumibot",
+    "name": "Lumibot",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/Lumiwealth/lumibot",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "ml4t-backtest",
+    "name": "ML4T Backtest (parity-validated engine)",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/ml4t/backtest",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "pysystemtrade",
+    "name": "pysystemtrade",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/pst-group/pysystemtrade",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "qstrader-legacy",
+    "name": "QSTrader",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/mhallsmoore/qstrader",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "qf-lib",
+    "name": "qf-lib",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/quarkfin/qf-lib",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "investing-algorithm-framework",
+    "name": "investing-algorithm-framework",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/coding-kitties/investing-algorithm-framework",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "vnpy",
+    "name": "VeighNa (vn.py)",
+    "category": "Event-driven backtesting engines",
+    "kind": "platform",
+    "url": "https://github.com/vnpy/vnpy",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "pyalgotrade",
+    "name": "PyAlgoTrade",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/gbeced/pyalgotrade",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "blankly",
+    "name": "blankly",
+    "category": "Event-driven backtesting engines",
+    "kind": "engine",
+    "url": "https://github.com/blankly-finance/blankly",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "alphalens-reloaded",
+    "name": "alphalens-reloaded",
+    "category": "Factor evaluation",
+    "kind": "library",
+    "url": "https://github.com/stefan-jansen/alphalens-reloaded",
+    "use": "Evaluate cross-sectional stock rankings against forward outcomes."
+  },
+  {
+    "id": "alphalens-original",
+    "name": "alphalens (Quantopian original)",
+    "category": "Factor evaluation",
+    "kind": "library",
+    "url": "https://github.com/quantopian/alphalens",
+    "use": "Evaluate cross-sectional stock rankings against forward outcomes."
+  },
+  {
+    "id": "linearmodels",
+    "name": "linearmodels (Fama-MacBeth, panel)",
+    "category": "Factor evaluation",
+    "kind": "library",
+    "url": "https://github.com/bashtage/linearmodels",
+    "use": "Estimate panel regressions and inspect factor relationships."
+  },
+  {
+    "id": "purged-cv",
+    "name": "purged-cross-validation",
+    "category": "Validation and overfitting control",
+    "kind": "library",
+    "url": "https://github.com/eslazarev/purged-cross-validation",
+    "use": "Study time-aware validation, diagnostic tests or backtest selection bias."
+  },
+  {
+    "id": "pypbo",
+    "name": "pypbo (PBO, DSR)",
+    "category": "Validation and overfitting control",
+    "kind": "library",
+    "url": "https://github.com/esvhd/pypbo",
+    "use": "Study time-aware validation, diagnostic tests or backtest selection bias."
+  },
+  {
+    "id": "ml4t-diagnostic",
+    "name": "ML4T Diagnostic (IC, purged CV, DSR, PBO)",
+    "category": "Validation and overfitting control",
+    "kind": "library",
+    "url": "https://github.com/ml4t/diagnostic",
+    "use": "Study time-aware validation, diagnostic tests or backtest selection bias."
+  },
+  {
+    "id": "skill-backtest-overfit",
+    "name": "skill-backtest-overfit",
+    "category": "Validation and overfitting control",
+    "kind": "skill",
+    "url": "https://github.com/quantskills/skill-backtest-overfit",
+    "use": "Study time-aware validation, diagnostic tests or backtest selection bias."
+  },
+  {
+    "id": "agent-backtest-lab",
+    "name": "agent-backtest-lab (LLM-agent leakage audit)",
+    "category": "Validation and overfitting control",
+    "kind": "harness",
+    "url": "https://github.com/bettyguo/agent-backtest-lab",
+    "use": "Study time-aware validation, diagnostic tests or backtest selection bias."
+  },
+  {
+    "id": "mlfinlab",
+    "name": "mlfinlab (Hudson & Thames)",
+    "category": "Validation and overfitting control",
+    "kind": "library",
+    "url": "https://github.com/hudson-and-thames/mlfinlab",
+    "use": "Study time-aware validation, diagnostic tests or backtest selection bias."
+  },
+  {
+    "id": "qsx-strategy-score",
+    "name": "qsx-strategy-score",
+    "category": "Validation and overfitting control",
+    "kind": "tool",
+    "url": "https://github.com/jianweiweng05/qsx-strategy-score",
+    "use": "Study time-aware validation, diagnostic tests or backtest selection bias."
+  },
+  {
+    "id": "skfolio",
+    "name": "skfolio",
+    "category": "Portfolio construction",
+    "kind": "library",
+    "url": "https://github.com/skfolio/skfolio",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "riskfolio-lib",
+    "name": "Riskfolio-Lib",
+    "category": "Portfolio construction",
+    "kind": "library",
+    "url": "https://github.com/dcajasn/Riskfolio-Lib",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "pypfopt",
+    "name": "PyPortfolioOpt",
+    "category": "Portfolio construction",
+    "kind": "library",
+    "url": "https://github.com/PyPortfolio/PyPortfolioOpt",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "cvxportfolio",
+    "name": "cvxportfolio",
+    "category": "Portfolio construction",
+    "kind": "library",
+    "url": "https://github.com/cvxgrp/cvxportfolio",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "cvxpy",
+    "name": "CVXPY",
+    "category": "Portfolio construction",
+    "kind": "library",
+    "url": "https://github.com/cvxpy/cvxpy",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "riskparity-py",
+    "name": "riskparity.py",
+    "category": "Portfolio construction",
+    "kind": "library",
+    "url": "https://github.com/convexfi/riskparity.py",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "fortitudo",
+    "name": "fortitudo.tech (entropy pooling, CVaR)",
+    "category": "Portfolio construction",
+    "kind": "library",
+    "url": "https://github.com/fortitudo-tech/fortitudo.tech",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "nvidia-portfolio-opt",
+    "name": "NVIDIA portfolio-optimization blueprint",
+    "category": "Portfolio construction",
+    "kind": "blueprint",
+    "url": "https://github.com/NVIDIA-AI-Blueprints/portfolio-optimization",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "quantstats",
+    "name": "QuantStats",
+    "category": "Performance and reporting",
+    "kind": "library",
+    "url": "https://github.com/ranaroussi/quantstats",
+    "use": "Summarize simulated returns, risk exposures and drawdowns."
+  },
+  {
+    "id": "pyfolio-reloaded",
+    "name": "pyfolio-reloaded",
+    "category": "Performance and reporting",
+    "kind": "library",
+    "url": "https://github.com/stefan-jansen/pyfolio-reloaded",
+    "use": "Summarize simulated returns, risk exposures and drawdowns."
+  },
+  {
+    "id": "empyrical-reloaded",
+    "name": "empyrical-reloaded",
+    "category": "Performance and reporting",
+    "kind": "library",
+    "url": "https://github.com/stefan-jansen/empyrical-reloaded",
+    "use": "Summarize simulated returns, risk exposures and drawdowns."
+  },
+  {
+    "id": "empyrical-original",
+    "name": "empyrical (Quantopian original)",
+    "category": "Performance and reporting",
+    "kind": "library",
+    "url": "https://github.com/quantopian/empyrical",
+    "use": "Summarize simulated returns, risk exposures and drawdowns."
+  },
+  {
+    "id": "quantinvest-strats",
+    "name": "QuantInvestStrats (Sepp)",
+    "category": "Performance and reporting",
+    "kind": "library",
+    "url": "https://github.com/ArturSepp/QuantInvestStrats",
+    "use": "Summarize simulated returns, risk exposures and drawdowns."
+  },
+  {
+    "id": "quantlib",
+    "name": "QuantLib (+ QuantLib-SWIG Python)",
+    "category": "Options and derivatives",
+    "kind": "library",
+    "url": "https://github.com/lballabio/QuantLib",
+    "use": "Price derivatives or compute risk sensitivities under explicit assumptions."
+  },
+  {
+    "id": "py-vollib",
+    "name": "py_vollib",
+    "category": "Options and derivatives",
+    "kind": "library",
+    "url": "https://github.com/vollib/py_vollib",
+    "use": "Price derivatives or compute risk sensitivities under explicit assumptions."
+  },
+  {
+    "id": "financepy",
+    "name": "FinancePy",
+    "category": "Options and derivatives",
+    "kind": "library",
+    "url": "https://github.com/FinancePy-Org/FinancePy",
+    "use": "Price derivatives or compute risk sensitivities under explicit assumptions."
+  },
+  {
+    "id": "optopsy",
+    "name": "optopsy",
+    "category": "Options and derivatives",
+    "kind": "library",
+    "url": "https://github.com/goldspanlabs/optopsy",
+    "use": "Research options strategies, volatility and implied outcomes."
+  },
+  {
+    "id": "optionlab",
+    "name": "optionlab",
+    "category": "Options and derivatives",
+    "kind": "library",
+    "url": "https://github.com/rgaveiga/optionlab",
+    "use": "Research options strategies, volatility and implied outcomes."
+  },
+  {
+    "id": "volatility-trading",
+    "name": "volatility-trading (estimators)",
+    "category": "Options and derivatives",
+    "kind": "library",
+    "url": "https://github.com/jasonstrimpel/volatility-trading",
+    "use": "Research options strategies, volatility and implied outcomes."
+  },
+  {
+    "id": "gs-quant",
+    "name": "gs-quant",
+    "category": "Options and derivatives",
+    "kind": "sdk",
+    "url": "https://github.com/goldmansachs/gs-quant",
+    "use": "Price derivatives or compute risk sensitivities under explicit assumptions."
+  },
+  {
+    "id": "options-implied-probability",
+    "name": "options-implied-probability",
+    "category": "Options and derivatives",
+    "kind": "library",
+    "url": "https://github.com/Open-Lemma/options-implied-probability",
+    "use": "Research options strategies, volatility and implied outcomes."
+  },
+  {
+    "id": "cantaro86",
+    "name": "Financial-Models-Numerical-Methods",
+    "category": "Options and derivatives",
+    "kind": "notebook",
+    "url": "https://github.com/cantaro86/Financial-Models-Numerical-Methods",
+    "use": "Research options strategies, volatility and implied outcomes."
+  },
+  {
+    "id": "hftbacktest",
+    "name": "hftbacktest",
+    "category": "Intraday and market microstructure",
+    "kind": "engine",
+    "url": "https://github.com/nkaz001/hftbacktest",
+    "use": "Study order-book events and microstructure using simulations or historical data."
+  },
+  {
+    "id": "abides",
+    "name": "ABIDES",
+    "category": "Intraday and market microstructure",
+    "kind": "simulator",
+    "url": "https://github.com/abides-sim/abides",
+    "use": "Study order-book events and microstructure using simulations or historical data."
+  },
+  {
+    "id": "lobframe",
+    "name": "LOBFrame",
+    "category": "Intraday and market microstructure",
+    "kind": "research",
+    "url": "https://github.com/FinancialComputingUCL/LOBFrame",
+    "use": "Study order-book events and microstructure using simulations or historical data."
+  },
+  {
+    "id": "lobster",
+    "name": "LOBSTER Nasdaq order book data",
+    "category": "Intraday and market microstructure",
+    "kind": "service",
+    "url": "https://lobsterdata.com/",
+    "use": "Study order-book events and microstructure using simulations or historical data."
+  },
+  {
+    "id": "tradingagents",
+    "name": "TradingAgents",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "ai-hedge-fund",
+    "name": "ai-hedge-fund",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "finrobot",
+    "name": "FinRobot",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "vibe-trading",
+    "name": "Vibe-Trading",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "ai-trader",
+    "name": "AI-Trader (HKUDS)",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "finmem",
+    "name": "FinMem",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "research",
+    "url": "https://github.com/pipiku915/FinMem-LLM-StockTrading",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "llm-trading-lab",
+    "name": "LLM-Trading-Lab",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "experiment",
+    "url": "https://github.com/LuckyOne7777/LLM-Trading-Lab",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "trading-r1",
+    "name": "Trading-R1",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "research",
+    "url": "https://github.com/TauricResearch/Trading-R1",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "company-research-agent",
+    "name": "company-research-agent",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/guy-hartstein/company-research-agent",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "risk-aware-trading-agents",
+    "name": "risk-aware-trading-agents (leak-free news backtests)",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "tradememory-protocol",
+    "name": "tradememory-protocol",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "library",
+    "url": "https://github.com/mnemox-ai/tradememory-protocol",
+    "use": "Record agent observations and decisions for later analysis."
+  },
+  {
+    "id": "autohedge",
+    "name": "AutoHedge",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "agent",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "quantdinger",
+    "name": "QuantDinger",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "platform",
+    "url": "https://github.com/OpenByteInc/QuantDinger",
+    "use": "Compare architectures for agents performing financial research."
+  },
+  {
+    "id": "langgraph",
+    "name": "LangGraph",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "library",
+    "url": "https://github.com/langchain-ai/langgraph",
+    "use": "Build typed or graph-based agent workflows."
+  },
+  {
+    "id": "pydantic-ai",
+    "name": "Pydantic AI",
+    "category": "LLM agent frameworks (reference designs)",
+    "kind": "library",
+    "url": "https://github.com/pydantic/pydantic-ai",
+    "use": "Build typed or graph-based agent workflows."
+  },
+  {
+    "id": "alpaca-mcp",
+    "name": "Alpaca MCP server",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/alpacahq/alpaca-mcp-server",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "sec-edgar-mcp",
+    "name": "sec-edgar-mcp",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/stefanoamorelli/sec-edgar-mcp",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "financial-datasets-mcp",
+    "name": "Financial Datasets MCP",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/financial-datasets/mcp-server",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "maverick-mcp",
+    "name": "maverick-mcp",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/wshobson/maverick-mcp",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "yahoo-finance-mcp",
+    "name": "yahoo-finance-mcp",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/Alex2Yang97/yahoo-finance-mcp",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "alpha-vantage-mcp",
+    "name": "Alpha Vantage MCP",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/alphavantage/alpha_vantage_mcp",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "massive-mcp",
+    "name": "Massive MCP",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/massive-com/mcp_massive",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "tradingview-mcp",
+    "name": "tradingview-mcp (screeners/TA)",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "qanat",
+    "name": "qanat (point-in-time research MCP)",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/fidetolabs/qanat",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "ib-mcp",
+    "name": "interactive-brokers-mcp",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/code-rabi/interactive-brokers-mcp",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "ml4t-skills",
+    "name": "ML4T agent skills",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "skill",
+    "url": "https://github.com/ml4t/skills",
+    "use": "Browse reusable financial research skills and workflow examples."
+  },
+  {
+    "id": "claude-trading-skills",
+    "name": "claude-trading-skills",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "skill",
+    "url": "https://github.com/tradermonty/claude-trading-skills",
+    "use": "Browse reusable financial research skills and workflow examples."
+  },
+  {
+    "id": "finance-skills",
+    "name": "finance-skills",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "skill",
+    "url": "https://github.com/himself65/finance-skills",
+    "use": "Browse reusable financial research skills and workflow examples."
+  },
+  {
+    "id": "quantskills",
+    "name": "quantskills",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "skill",
+    "url": "https://github.com/quantskills/quantskills",
+    "use": "Browse reusable financial research skills and workflow examples."
+  },
+  {
+    "id": "awesome-finance-skills",
+    "name": "Awesome-finance-skills",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "list",
+    "url": "https://github.com/RKiding/Awesome-finance-skills",
+    "use": "Browse reusable financial research skills and workflow examples."
+  },
+  {
+    "id": "openbb-docs-mcp",
+    "name": "OpenBB docs MCP",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "mcp",
+    "url": "https://github.com/OpenBB-finance/openbb-docs-mcp",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "financebench",
+    "name": "FinanceBench",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "benchmark",
+    "url": "https://huggingface.co/datasets/PatronusAI/financebench",
+    "use": "Compare financial question answering or agent behavior on benchmark tasks."
+  },
+  {
+    "id": "finben-pixiu",
+    "name": "FinBen / PIXIU",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "benchmark",
+    "url": "https://github.com/The-FinAI/PIXIU",
+    "use": "Compare financial question answering or agent behavior on benchmark tasks."
+  },
+  {
+    "id": "stockbench",
+    "name": "StockBench",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "benchmark",
+    "url": "https://arxiv.org/abs/2510.02209",
+    "use": "Compare financial question answering or agent behavior on benchmark tasks."
+  },
+  {
+    "id": "livetradebench",
+    "name": "LiveTradeBench",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "benchmark",
+    "url": "https://arxiv.org/abs/2511.03628",
+    "use": "Compare financial question answering or agent behavior on benchmark tasks."
+  },
+  {
+    "id": "nof0",
+    "name": "nof0 LLM trading arena",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "arena",
+    "url": "https://github.com/wquguru/nof0",
+    "use": "Compare financial question answering or agent behavior on benchmark tasks."
+  },
+  {
+    "id": "promptfoo",
+    "name": "promptfoo",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "tool",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "use": "Evaluate prompts and inspect agent traces."
+  },
+  {
+    "id": "phoenix",
+    "name": "Arize Phoenix",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "tool",
+    "url": "https://github.com/Arize-ai/phoenix",
+    "use": "Evaluate prompts and inspect agent traces."
+  },
+  {
+    "id": "financial-qa-10k",
+    "name": "financial-qa-10K",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/virattt/financial-qa-10K",
+    "use": "Compare financial question answering or agent behavior on benchmark tasks."
+  },
+  {
+    "id": "numerai",
+    "name": "Numerai data + eras",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "dataset",
+    "url": "https://docs.numer.ai/numerai-tournament/data",
+    "use": "Study dated prediction challenges and their evaluation protocols."
+  },
+  {
+    "id": "alpaca-paper",
+    "name": "Alpaca paper trading",
+    "category": "Paper execution",
+    "kind": "service",
+    "url": "https://docs.alpaca.markets/docs/paper-trading",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "ib-async",
+    "name": "ib_async",
+    "category": "Paper execution",
+    "kind": "sdk",
+    "url": "https://github.com/ib-api-reloaded/ib_async",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "ib-insync",
+    "name": "ib_insync",
+    "category": "Paper execution",
+    "kind": "sdk",
+    "url": "https://github.com/erdewit/ib_insync",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "ib-gateway-docker",
+    "name": "ib-gateway-docker",
+    "category": "Paper execution",
+    "kind": "tool",
+    "url": "https://github.com/gnzsnz/ib-gateway-docker",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "schwab-py",
+    "name": "schwab-py",
+    "category": "Paper execution",
+    "kind": "sdk",
+    "url": "https://github.com/alexgolec/schwab-py",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "alpaca-trade-api-python",
+    "name": "alpaca-trade-api-python (legacy)",
+    "category": "Paper execution",
+    "kind": "sdk",
+    "url": "https://github.com/alpacahq/alpaca-trade-api-python",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "mplfinance",
+    "name": "mplfinance",
+    "category": "Visualization",
+    "kind": "library",
+    "url": "https://github.com/matplotlib/mplfinance",
+    "use": "Visualize market series, candles or research results."
+  },
+  {
+    "id": "lightweight-charts-python",
+    "name": "lightweight-charts-python",
+    "category": "Visualization",
+    "kind": "library",
+    "url": "https://github.com/louisnw01/lightweight-charts-python",
+    "use": "Visualize market series, candles or research results."
+  },
+  {
+    "id": "lightweight-charts",
+    "name": "TradingView Lightweight Charts",
+    "category": "Visualization",
+    "kind": "library",
+    "url": "https://github.com/tradingview/lightweight-charts",
+    "use": "Visualize market series, candles or research results."
+  },
+  {
+    "id": "plotly",
+    "name": "Plotly",
+    "category": "Visualization",
+    "kind": "library",
+    "url": "https://github.com/plotly/plotly.py",
+    "use": "Visualize market series, candles or research results."
+  },
+  {
+    "id": "ml4t",
+    "name": "Machine Learning for Trading (Jansen)",
+    "category": "Learning and references",
+    "kind": "book",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "quantopian-lectures",
+    "name": "Quantopian lectures archive",
+    "category": "Learning and references",
+    "kind": "course",
+    "url": "https://archive.org/details/quantopian-archive",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "je-suis-tm",
+    "name": "quant-trading (je-suis-tm)",
+    "category": "Learning and references",
+    "kind": "notebook",
+    "url": "https://github.com/je-suis-tm/quant-trading",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "hvass-finance",
+    "name": "Hvass Finance-Research",
+    "category": "Learning and references",
+    "kind": "notebook",
+    "url": "https://github.com/Hvass-Labs/Finance-Research",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "quantsplaybook",
+    "name": "QuantsPlaybook",
+    "category": "Learning and references",
+    "kind": "notebook",
+    "url": "https://github.com/hugo2046/QuantsPlaybook",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "awesome-quant",
+    "name": "awesome-quant",
+    "category": "Learning and references",
+    "kind": "list",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "use": "Discover further tools, research examples and published strategies."
+  },
+  {
+    "id": "awesome-systematic-trading",
+    "name": "awesome-systematic-trading",
+    "category": "Learning and references",
+    "kind": "list",
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "use": "Discover further tools, research examples and published strategies."
+  },
+  {
+    "id": "paperswithbacktest",
+    "name": "Papers With Backtest",
+    "category": "Learning and references",
+    "kind": "service",
+    "url": "https://paperswithbacktest.com/strategies",
+    "use": "Discover further tools, research examples and published strategies."
+  },
+  {
+    "id": "quantconnect-docs",
+    "name": "QuantConnect docs & research",
+    "category": "Learning and references",
+    "kind": "docs",
+    "url": "https://www.quantconnect.com/docs/v2",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "firecrawl-alexandria",
+    "name": "Firecrawl Alexandria",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "research resource",
+    "url": "https://docs.firecrawl.dev/features/alexandria",
+    "use": "Look up structured provider data through a documented web API."
+  },
+  {
+    "id": "perplexity-search",
+    "name": "Perplexity Search API",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "research resource",
+    "url": "https://docs.perplexity.ai/docs/search/quickstart",
+    "use": "Find sources for issuer research and verify leads against original documents."
+  },
+  {
+    "id": "alpaca-news",
+    "name": "Alpaca Historical News API",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "research resource",
+    "url": "https://docs.alpaca.markets/us/reference/news-3",
+    "use": "Retrieve time-stamped historical news records."
+  },
+  {
+    "id": "firecrawl-parse",
+    "name": "Firecrawl Parse",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "research resource",
+    "url": "https://docs.firecrawl.dev/features/parse",
+    "use": "Extract readable text or structured content from source documents."
+  },
+  {
+    "id": "firecrawl-scrape",
+    "name": "Firecrawl Scrape",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "research resource",
+    "url": "https://docs.firecrawl.dev/features/scrape",
+    "use": "Extract readable text or structured content from source documents."
+  },
+  {
+    "id": "perplexity-agent",
+    "name": "Perplexity Agent API",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "research resource",
+    "url": "https://docs.perplexity.ai/docs/agent-api/quickstart",
+    "use": "Find sources for issuer research and verify leads against original documents."
+  },
+  {
+    "id": "perplexity-mcp",
+    "name": "Perplexity API MCP server",
+    "category": "Agent tooling: MCP servers and skills",
+    "kind": "research resource",
+    "url": "https://github.com/perplexityai/modelcontextprotocol",
+    "use": "Inspect an upstream tool interface and its exposed permissions."
+  },
+  {
+    "id": "pdfplumber",
+    "name": "pdfplumber",
+    "category": "News, text and sentiment",
+    "kind": "research resource",
+    "url": "https://github.com/jsvine/pdfplumber",
+    "use": "Extract readable text or structured content from source documents."
+  },
+  {
+    "id": "lancedb",
+    "name": "LanceDB",
+    "category": "News, text and sentiment",
+    "kind": "research resource",
+    "url": "https://github.com/lancedb/lancedb",
+    "use": "Search vector representations of documents or observations."
+  },
+  {
+    "id": "pymupdf",
+    "name": "PyMuPDF",
+    "category": "News, text and sentiment",
+    "kind": "research resource",
+    "url": "https://github.com/pymupdf/PyMuPDF",
+    "use": "Extract readable text or structured content from source documents."
+  },
+  {
+    "id": "sec-financial-notes",
+    "name": "SEC Financial Statement and Notes Data Sets",
+    "category": "Fundamentals and SEC filings",
+    "kind": "research resource",
+    "url": "https://www.sec.gov/data-research/sec-markets-data/financial-statement-notes-data-sets",
+    "use": "Research accounting statements and compare financial ratios."
+  },
+  {
+    "id": "alpaca-assets",
+    "name": "Alpaca Assets API",
+    "category": "Universe, identifiers and calendars",
+    "kind": "research resource",
+    "url": "https://docs.alpaca.markets/us/docs/working-with-assets",
+    "use": "Look up security reference information."
+  },
+  {
+    "id": "sp-us-method",
+    "name": "S&P U.S. index methodology",
+    "category": "Universe, identifiers and calendars",
+    "kind": "research resource",
+    "url": "https://www.spglobal.com/spdji/en/methodology/article/sp-us-indices-methodology/",
+    "use": "Check index inclusion and maintenance methodology."
+  },
+  {
+    "id": "sp-index-method",
+    "name": "S&P DJI methodology library",
+    "category": "Universe, identifiers and calendars",
+    "kind": "research resource",
+    "url": "https://www.spglobal.com/spdji/en/governance/methodology-and-regulatory-status/",
+    "use": "Check index inclusion and maintenance methodology."
+  },
+  {
+    "id": "alpaca-corporate-actions",
+    "name": "Alpaca Corporate Actions API",
+    "category": "Prices and market data",
+    "kind": "research resource",
+    "url": "https://docs.alpaca.markets/us/reference/corporateactions-1",
+    "use": "Retrieve corporate action records for historical price reconciliation."
+  },
+  {
+    "id": "alpaca-js",
+    "name": "Alpaca JavaScript SDK",
+    "category": "Prices and market data",
+    "kind": "research resource",
+    "url": "https://github.com/alpacahq/alpaca-trade-api-js",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "alpaca-stream",
+    "name": "Alpaca stock market data stream",
+    "category": "Prices and market data",
+    "kind": "research resource",
+    "url": "https://docs.alpaca.markets/us/docs/real-time-stock-pricing-data",
+    "use": "Consume streaming market-data observations."
+  },
+  {
+    "id": "nasdaq-data-link",
+    "name": "Nasdaq Data Link client",
+    "category": "Prices and market data",
+    "kind": "research resource",
+    "url": "https://github.com/Nasdaq/data-link-python",
+    "use": "Retrieve price history or market observations through a provider-specific client."
+  },
+  {
+    "id": "sharadar",
+    "name": "Sharadar Core US Fundamentals",
+    "category": "Prices and market data",
+    "kind": "research resource",
+    "url": "https://data.nasdaq.com/databases/SF1",
+    "use": "Research accounting statements and compare financial ratios."
+  },
+  {
+    "id": "alfred",
+    "name": "ALFRED",
+    "category": "Macro and factor data",
+    "kind": "research resource",
+    "url": "https://alfred.stlouisfed.org/",
+    "use": "Retrieve historical vintages of economic data."
+  },
+  {
+    "id": "fred",
+    "name": "FRED",
+    "category": "Macro and factor data",
+    "kind": "research resource",
+    "url": "https://fred.stlouisfed.org/",
+    "use": "Access macroeconomic series and compare observation dates with release dates."
+  },
+  {
+    "id": "bls-api",
+    "name": "BLS Public Data API",
+    "category": "Macro and factor data",
+    "kind": "research resource",
+    "url": "https://www.bls.gov/developers/",
+    "use": "Access macroeconomic series and compare observation dates with release dates."
+  },
+  {
+    "id": "eia",
+    "name": "EIA Open Data",
+    "category": "Macro and factor data",
+    "kind": "research resource",
+    "url": "https://www.eia.gov/opendata/",
+    "use": "Access macroeconomic series and compare observation dates with release dates."
+  },
+  {
+    "id": "global-factor",
+    "name": "Global Factor Data replication",
+    "category": "Macro and factor data",
+    "kind": "research resource",
+    "url": "https://github.com/lhpedersen/GlobalFactor",
+    "use": "Build factor benchmarks or study replicated asset-pricing signals."
+  },
+  {
+    "id": "fed-treasury",
+    "name": "U.S. Treasury Fiscal Data API",
+    "category": "Macro and factor data",
+    "kind": "research resource",
+    "url": "https://fiscaldata.treasury.gov/api-documentation/",
+    "use": "Access macroeconomic series and compare observation dates with release dates."
+  },
+  {
+    "id": "feast",
+    "name": "Feast",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "research resource",
+    "url": "https://docs.feast.dev/getting-started/concepts/point-in-time-joins",
+    "use": "Join dated features to historical observations using availability times."
+  },
+  {
+    "id": "prefect",
+    "name": "Prefect",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "research resource",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "use": "Schedule and observe data-processing workflows."
+  },
+  {
+    "id": "ibis",
+    "name": "Ibis",
+    "category": "Storage, validation and experiment tracking",
+    "kind": "research resource",
+    "url": "https://github.com/ibis-project/ibis",
+    "use": "Query tabular time series and join market observations."
+  },
+  {
+    "id": "hindsight",
+    "name": "Hindsight",
+    "category": "Event-driven backtesting engines",
+    "kind": "research resource",
+    "url": "https://github.com/co-rtex/hindsight",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  },
+  {
+    "id": "portfolioanalytics",
+    "name": "PortfolioAnalytics for R",
+    "category": "Portfolio construction",
+    "kind": "research resource",
+    "url": "https://cran.r-project.org/package=PortfolioAnalytics",
+    "use": "Construct or compare portfolios with explicit risk and constraint assumptions."
+  },
+  {
+    "id": "alpaca-options",
+    "name": "Alpaca Options Market Data API",
+    "category": "Options and derivatives",
+    "kind": "research resource",
+    "url": "https://docs.alpaca.markets/us/docs/historical-option-data",
+    "use": "Access options data and exchange market statistics."
+  },
+  {
+    "id": "cboe-options",
+    "name": "Cboe options market statistics",
+    "category": "Options and derivatives",
+    "kind": "research resource",
+    "url": "https://www.cboe.com/us/options/market_statistics/",
+    "use": "Access options data and exchange market statistics."
+  },
+  {
+    "id": "cboe-equities",
+    "name": "Cboe U.S. equities market volume",
+    "category": "Options and derivatives",
+    "kind": "research resource",
+    "url": "https://www.cboe.com/us/equities/market_statistics/",
+    "use": "Access options data and exchange market statistics."
+  },
+  {
+    "id": "cboe-vix",
+    "name": "Cboe VIX historical data",
+    "category": "Options and derivatives",
+    "kind": "research resource",
+    "url": "https://www.cboe.com/tradable_products/vix/vix_historical_data/",
+    "use": "Access options data and exchange market statistics."
+  },
+  {
+    "id": "sec-market-structure",
+    "name": "SEC market structure data",
+    "category": "Options and derivatives",
+    "kind": "research resource",
+    "url": "https://www.sec.gov/data-research/market-structure-data",
+    "use": "Study order-book events and microstructure using simulations or historical data."
+  },
+  {
+    "id": "vollib",
+    "name": "vollib",
+    "category": "Options and derivatives",
+    "kind": "research resource",
+    "url": "https://github.com/vollib/vollib",
+    "use": "Price derivatives or compute risk sensitivities under explicit assumptions."
+  },
+  {
+    "id": "sktime",
+    "name": "sktime",
+    "category": "ML, forecasting and research automation",
+    "kind": "research resource",
+    "url": "https://github.com/sktime/sktime",
+    "use": "Compare time-series forecasting models on frozen prediction windows."
+  },
+  {
+    "id": "rl-baselines",
+    "name": "Stable Baselines3",
+    "category": "ML, forecasting and research automation",
+    "kind": "research resource",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "use": "Study reinforcement learning in simulated market environments."
+  },
+  {
+    "id": "fintrade",
+    "name": "FinTrade sample",
+    "category": "Agent evaluation and benchmarks",
+    "kind": "research resource",
+    "url": "https://huggingface.co/datasets/TheFinAI/en-fintrade-train",
+    "use": "Compare financial question answering or agent behavior on benchmark tasks."
+  },
+  {
+    "id": "alpaca-lean",
+    "name": "LEAN Alpaca brokerage adapter",
+    "category": "Paper execution",
+    "kind": "research resource",
+    "url": "https://github.com/QuantConnect/Lean.Brokerages.Alpaca",
+    "use": "Review broker or simulator integration interfaces and access requirements."
+  },
+  {
+    "id": "kaggle-hull",
+    "name": "Hull Tactical Market Prediction",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://www.kaggle.com/competitions/hull-tactical-market-prediction/",
+    "use": "Study dated prediction challenges and their evaluation protocols."
+  },
+  {
+    "id": "kaggle-jane-street",
+    "name": "Jane Street forecasting competition",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting",
+    "use": "Study dated prediction challenges and their evaluation protocols."
+  },
+  {
+    "id": "optiver-vol",
+    "name": "Optiver Realized Volatility Prediction",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://www.kaggle.com/competitions/optiver-realized-volatility-prediction",
+    "use": "Study dated prediction challenges and their evaluation protocols."
+  },
+  {
+    "id": "kaggle-optiver",
+    "name": "Optiver Trading at the Close",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://www.kaggle.com/competitions/optiver-trading-at-the-close",
+    "use": "Study dated prediction challenges and their evaluation protocols."
+  },
+  {
+    "id": "alpaca-learn",
+    "name": "Alpaca Learn examples",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://alpaca.markets/learn",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "ml4t-workflow",
+    "name": "QuantConnect backtest analysis",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://www.quantconnect.com/docs/v2/research-environment/meta-analysis/backtest-analysis",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "quantconnect-research",
+    "name": "QuantConnect research notebooks",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://github.com/QuantConnect/Research",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "alpaca-skills",
+    "name": "Alpaca agent skills",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://github.com/alpacahq/alpaca-skills",
+    "use": "Browse reusable financial research skills and workflow examples."
+  },
+  {
+    "id": "awesome-open-trading",
+    "name": "Awesome Open-Source Trading",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://github.com/WallStreetPete/awesome-open-source-trading",
+    "use": "Discover further tools, research examples and published strategies."
+  },
+  {
+    "id": "quantecon",
+    "name": "QuantEcon books",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://quantecon.org/books/",
+    "use": "Explore reproducible notebooks, worked examples or quantitative finance courses."
+  },
+  {
+    "id": "worldquant-brain",
+    "name": "WorldQuant BRAIN",
+    "category": "Learning and references",
+    "kind": "research resource",
+    "url": "https://www.worldquant.com/brain/",
+    "use": "Study dated prediction challenges and their evaluation protocols."
+  },
+  {
+    "id": "qstrader",
+    "name": "QSTrader",
+    "category": "Event-driven backtesting engines",
+    "kind": "research resource",
+    "url": "https://github.com/quantstart/qstrader",
+    "use": "Replay trading systems and investigate event timing or fill assumptions."
+  }
+]
